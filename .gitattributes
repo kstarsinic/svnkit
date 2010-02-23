@@ -1,1 +1,7 @@
 * text=auto !eol
+/.classpath -text
+/.project -text
+.settings/org.eclipse.jdt.core.prefs -text
+META-INF/MANIFEST.MF -text
+/build.properties -text
+icons/sample.gif -text
