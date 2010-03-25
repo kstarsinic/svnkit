@@ -1,1 +1,5 @@
 * text=auto !eol
+/.classpath -text
+/.project -text
+META-INF/MANIFEST.MF -text
+/build.properties -text
